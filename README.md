@@ -64,7 +64,7 @@ Backend system supporting real users in production.
 
 ---
 
-## 📈 What I Focus On
+##  What I Focus On
 
 - Designing **scalable backend systems**
 - Writing **clean, maintainable code**
